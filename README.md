@@ -6,31 +6,31 @@ A personal data analytics project focused on analysing e-commerce sales , profit
 ## Project Objective 
 To evaluate business performance using key metrics and explore sales trends across regions , product categories , and sales channels.
 
-##Tools Used
-- Power Bi
-- DAX
-- Microsoft Excel
-- SQL
+## Tools Used
+-  Power Bi
+-  DAX
+-  Microsoft Excel
+-  SQL
   
 ## Dataset Scope 
--12,018 orders
+- 12,018 orders
 
--12 months of data 
+- 12 months of data 
 
--5 regions 
+- 5 regions 
 
--5 product categories
+- 5 product categories
 
 ## Key Findings 
--Revenue : $2.54M
+- Revenue : $2.54M
 
--Profit margin : 37.2%
+- Profit margin : 37.2%
 
--Overall return rate : 8.8%
+- Overall return rate : 8.8%
 
--Mobile App return rate :8.97%
+- Mobile App return rate :8.97%
 
--Website return rate:8.76%
+- Website return rate:8.76%
 
 ## project Report
 See 'POWER BI PROJECT.PDF' in this repository
