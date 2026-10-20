@@ -33,8 +33,15 @@ To evaluate business performance using key metrics and explore sales trends acro
 -Website return rate:8.76%
 
 ## project Report
-See 'POWER BI PROJECT.PDF' in this repository.
+See 'POWER BI PROJECT.PDF' in this repository
 
+## Data Cleaning
+
+Cleaned the e commerce dataset in preparation for analysis by:
+
+- Filling missing values with appropriate data, including discount percentage values.
+- Removing duplicate records.
+- Correcting data type to support accurate analysis.
 
 ## Data Files
 
@@ -51,6 +58,6 @@ See 'POWER BI PROJECT.PDF' in this repository.
 
 ![Sales Performance Dashboard](./dashboard.png)
 
-##Disclamer
+## Disclamer
 
 This is a personal project. Results describe the analysed dataset and do not establish verified business impact.
