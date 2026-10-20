@@ -37,6 +37,14 @@ See 'POWER BI PROJECT.PDF' in this repository.
 
 ## Dashboard Preview
 
+## Data Files
+
+- `POWER BI PROJECT.pdf` — Power BI project report.
+- `dashboard.png` — Dashboard preview.
+- `ecommerce-analysis.csv` — Add this after uploading your CSV file.
+-
+
+
 ![Sales Performance Dashboard](./dashboard.png)
 
 ##Disclamer
