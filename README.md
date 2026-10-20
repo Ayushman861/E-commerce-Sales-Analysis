@@ -10,12 +10,16 @@ To evaluate business performance using key metrics and explore sales trends acro
 - Power Bi
 - DAX
 - Microsoft Excel
-- 
+- SQL
+  
 ## Dataset Scope 
 -12,018 orders
+
 -12 months of data 
+
 -5 regions 
-- 5 product categories
+
+-5 product categories
 
 ## Key Findings 
 -Revenue : $2.54M
