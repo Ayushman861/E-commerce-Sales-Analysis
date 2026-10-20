@@ -41,6 +41,10 @@ See 'POWER BI PROJECT.PDF' in this repository.
 - `POWER BI PROJECT.pdf` — Power BI project report.
 - `dashboard.png` — Dashboard preview.
 - `E-commerce_Excel_project.csv` E-Commerce data file.
+- E-Commerce transaction dataset containing order, customer segment, region, sales channel, product, payment, and sales-related fields.
+
+  ## Analysis
+  The project includes a one page Power BI dashboard for analysing sales performance regional ,revenue , product revenue ,monthly trends, and return rates.
 
 ## Dashboard Preview
 
