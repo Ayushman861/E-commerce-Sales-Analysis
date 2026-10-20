@@ -23,9 +23,13 @@ To evaluate business performance using key metrics and explore sales trends acro
 
 ## Key Findings 
 -Revenue : $2.54M
+
 -Profit margin : 37.2%
+
 -Overall return rate : 8.8%
+
 -Mobile App return rate :8.97%
+
 -Website return rate:8.76%
 
 ## project Report
