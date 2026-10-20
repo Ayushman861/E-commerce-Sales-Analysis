@@ -35,14 +35,14 @@ To evaluate business performance using key metrics and explore sales trends acro
 ## project Report
 See 'POWER BI PROJECT.PDF' in this repository.
 
-## Dashboard Preview
 
 ## Data Files
 
 - `POWER BI PROJECT.pdf` — Power BI project report.
 - `dashboard.png` — Dashboard preview.
 - `ecommerce-analysis.csv` — Add this after uploading your CSV file.
--
+
+## Dashboard Preview
 
 
 ![Sales Performance Dashboard](./dashboard.png)
