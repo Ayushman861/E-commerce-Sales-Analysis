@@ -37,7 +37,7 @@ See 'POWER BI PROJECT.PDF' in this repository.
 
 ## Dashboard Preview
 
-[Sales Performance Dashboard]
+![Sales Performance Dashboard]
 (power%20bi20dashboard.png)
 
 ##Disclamer
