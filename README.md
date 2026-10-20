@@ -40,7 +40,7 @@ See 'POWER BI PROJECT.PDF' in this repository.
 
 - `POWER BI PROJECT.pdf` — Power BI project report.
 - `dashboard.png` — Dashboard preview.
-- `ecommerce-analysis.csv` — Add this after uploading your CSV file.
+- `E-commerce_Excel_project.csv` — Add this after uploading your CSV file.
 
 ## Dashboard Preview
 
