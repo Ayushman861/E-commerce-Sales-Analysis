@@ -43,6 +43,10 @@ Cleaned the e commerce dataset in preparation for analysis by:
 - Removing duplicate records.
 - Correcting data type to support accurate analysis.
 
+## Key Insights
+- Mobile app recorded the highest return rate , followed by website and market place.
+- Excel analysis identified wrong size as the most frequently recorded reason for product returns across all channels. 
+
 ## Data Files
 
 - `POWER BI PROJECT.pdf` — Power BI project report.
