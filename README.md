@@ -1,7 +1,7 @@
 # E-commerce-Sales-Analysis
 
 ## Project overview 
-A personal data analytics project focused on analysing e-commerce sales , profitability , and product returns 
+A personal data analytics project focused on analysing e-commerce sales, profitability, and product returns. 
 
 ## Project Objective 
 To evaluate business performance using key metrics and explore sales trends across regions , product categories , and sales channels.
