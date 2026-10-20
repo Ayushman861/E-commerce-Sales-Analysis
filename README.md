@@ -38,8 +38,7 @@ See 'POWER BI PROJECT.PDF' in this repository.
 ## Dashboard Preview
 
 [Sales Performance Dashboard]
-
-(dashboard.png)
+(power%20bi20dashboard.png)
 
 ##Disclamer
 This is a personal project. Results describe the analysed dataset and do not establish verified business impact.
